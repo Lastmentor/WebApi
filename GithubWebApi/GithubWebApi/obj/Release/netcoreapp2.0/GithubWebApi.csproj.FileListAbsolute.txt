@@ -1,0 +1,11 @@
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\bin\Release\netcoreapp2.0\GithubWebApi.deps.json
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\bin\Release\netcoreapp2.0\GithubWebApi.runtimeconfig.json
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\bin\Release\netcoreapp2.0\GithubWebApi.runtimeconfig.dev.json
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\bin\Release\netcoreapp2.0\GithubWebApi.dll
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\bin\Release\netcoreapp2.0\GithubWebApi.pdb
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\obj\Release\netcoreapp2.0\GithubWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\obj\Release\netcoreapp2.0\GithubWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\obj\Release\netcoreapp2.0\GithubWebApi.AssemblyInfoInputs.cache
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\obj\Release\netcoreapp2.0\GithubWebApi.AssemblyInfo.cs
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\obj\Release\netcoreapp2.0\GithubWebApi.dll
+C:\Users\Rıza\source\repos\GithubWebApi\GithubWebApi\obj\Release\netcoreapp2.0\GithubWebApi.pdb
